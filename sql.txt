@@ -1,0 +1,10 @@
+CREATE TABLE ⁠ user ⁠ (
+  ⁠ id ⁠ int NOT NULL AUTO_INCREMENT,
+  ⁠ email ⁠ varchar(255) NOT NULL,
+  ⁠ passwordHash ⁠ varchar(255) NOT NULL,
+  ⁠ fullName ⁠ varchar(255) NOT NULL,
+  ⁠ role ⁠ varchar(45) NOT NULL,
+  ⁠ verified ⁠ tinyint NOT NULL DEFAULT '0',
+  PRIMARY KEY (⁠ email ⁠),
+  UNIQUE KEY ⁠ id_UNIQUE ⁠ (⁠ id ⁠)
+)
