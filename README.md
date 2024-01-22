@@ -19,7 +19,4 @@ I suggest you to create a virtual environment to run this project because its al
 
 These commands will typically start a development server for your frontend code, allowing you to access the webpage in your browser.
 
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
+![WhatsApp Image 2024-01-20 at 02 37 49](https://github.com/Sami7622/Code-Summarization-using-GPT-4/assets/57222768/16002ab3-1506-4b0b-bc58-c44b2ad522b7)
