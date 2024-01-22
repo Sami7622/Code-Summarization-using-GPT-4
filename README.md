@@ -19,4 +19,10 @@ I suggest you to create a virtual environment to run this project because its al
 
 These commands will typically start a development server for your frontend code, allowing you to access the webpage in your browser.
 
+![WhatsApp Image 2024-01-20 at 02 37 39](https://github.com/Sami7622/Code-Summarization-using-GPT-4/assets/57222768/ed7254ca-2605-4c5d-89d3-12707722f6d0)
+
+
 ![WhatsApp Image 2024-01-20 at 02 37 49](https://github.com/Sami7622/Code-Summarization-using-GPT-4/assets/57222768/16002ab3-1506-4b0b-bc58-c44b2ad522b7)
+
+
+![WhatsApp Image 2024-01-20 at 02 37 19](https://github.com/Sami7622/Code-Summarization-using-GPT-4/assets/57222768/8c0cec70-0f4b-4640-bdbc-fff9a5073e7a)
