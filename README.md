@@ -18,3 +18,8 @@ I suggest you to create a virtual environment to run this project because its al
 
 
 These commands will typically start a development server for your frontend code, allowing you to access the webpage in your browser.
+
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
